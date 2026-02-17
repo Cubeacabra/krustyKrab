@@ -11,7 +11,7 @@ body {
 	animation: bg 6s infinite linear;
 }
 img {
-	border-color: blue;
+	border-color: 800e1f;
 	border-radius: 12px;
 	max-width: 100%;
 	max-height: 100%;
@@ -21,10 +21,10 @@ img {
 
 @keyframes bg {
 	from {
-		background-color: rgb(102, 171, 255);
+		background-color: rgb(164 35 35);
 	}
 	to {
-		background-color: rgb(0, 106, 255);
+		background-color: rgb(207 6 6);
 	}
 }
 
@@ -44,8 +44,8 @@ h4 {
 #speed,
 #slow {
 	padding: 1%;
-	background-color: #93ff93;
-	border-color: #2c522c;
+	background-color: #e9ff93;
+	border-color: #c07c2a;
 	border-width: 2px;
 	border-style: solid;
 	border-radius: 12px;
@@ -60,7 +60,7 @@ h4 {
 
 .functionality {
 	width: 19%;
-	border-right: 4px solid green;
+	border-right: 4px solid #ceb43c;
 }
 .lobsters {
 	width: 80%;
